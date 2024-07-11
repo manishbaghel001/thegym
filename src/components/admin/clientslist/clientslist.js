@@ -1,13 +1,13 @@
 import React from 'react';
 
-const Client = () => {
+const ClientsList = () => {
     return (
         <div>
-            <h1>Client Page</h1>
+            <h1>Clients List Page</h1>
             <p>Welcome to the client page.</p>
         </div>
     );
 };
 
-export default Client;
+export default ClientsList;
 
